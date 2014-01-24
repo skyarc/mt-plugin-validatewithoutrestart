@@ -1,4 +1,4 @@
 mt-plugin-validatewithoutrestart
 ================================
 
-Enable plugins without Apache restart
+Validate changing or modifing plugins without restarting web server when using FastCGI
